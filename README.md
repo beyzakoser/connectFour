@@ -10,5 +10,6 @@
 <img src="/images/GirisEkrani.png" width="700" height="600" >
 <img src="/images/oyun.png" width="700" height="600" >
 <img src="/images/kazananSari.png"  width="300" height="300"> <img src="/images/kazananKirmizi.png" width="300" height="300" >
+![alt-text-1](/images/kazananSari.png "title-1") ![alt-text-2](/images/kazananKirmizi.png "title-2")
 
 
