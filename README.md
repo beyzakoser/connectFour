@@ -14,8 +14,8 @@
 </p>
 <br>
 <p float="center">
-  <img src="/images/kazananSari.png" width="400" />
-  <img src="/images/kazananKirmizi.png" width="400" /> 
+  <img src="/images/kazananSari.png" width="500" height="450" />
+  <img src="/images/kazananKirmizi.png" width="500" height="450" /> 
 </p>
 
 
