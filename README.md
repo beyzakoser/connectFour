@@ -5,6 +5,11 @@
 
 ## CONNECT FOUR
 <img src="connectFour.png" width="700" height="900" >
-<img src="connectFour.png" width="700" height="600" >
-<img src="connectFour.png" width="700" height="600" >
+
+## OYUN TASARIMI
+<img src="GirisEkrani.png" width="700" height="600" >
+<img src="oyun.png" width="700" height="600" >
+<img src="kazananSari.png" width="500" height="500" >
+<img src="kazananKirmizi.png" width="500" height="500" >
+
 
