@@ -9,8 +9,8 @@
 ## OYUN TASARIMI
 
 <p float="center">
-  <img src="/images/GirisEkrani.png" width="450" height="400"/>
-  <img src="/images/oyun.png" width="450" height="400"/> 
+  <img src="/images/GirisEkrani.png" width="400" height="350"/>
+  <img src="/images/oyun.png" width="400" height="350"/> 
 </p>
 <br>
 <p float="center">
