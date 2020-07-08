@@ -7,12 +7,14 @@
 <img src="/images/connectFour.png" width="700" height="900" >
 
 ## OYUN TASARIMI
-<img src="/images/GirisEkrani.png" width="700" height="600" >
-<img src="/images/oyun.png" width="700" height="600" >
-<img src="/images/kazananSari.png"  width="300" height="300"> <img src="/images/kazananKirmizi.png" width="300" height="300" >
+
 <p float="left">
-  <img src="/images/kazananSari.png" width="300" />
-  <img src="/images/kazananKirmizi.png" width="300" /> 
+  <img src="/images/GirisEkrani.png" width="700" height="600"/>
+  <img src="/images/oyun.png" width="700" height="600"/> 
+</p>
+<p float="left">
+  <img src="/images/kazananSari.png" width="400" />
+  <img src="/images/kazananKirmizi.png" width="400" /> 
 </p>
 
 
